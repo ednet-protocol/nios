@@ -1,0 +1,15 @@
+-- ds.page: Number System
+
+Review of natural numbers ,integers and rational numbers, rational numbers as
+terminating or non – terminating decimals. Introduction of irrational numbers as nonterminating and non – recurring decimals.
+Rounding of rational numbers and irrational numbers. Real numbers.
+Representation of irrational numbers such as 2 , 3 and 5 on the number line.
+Operations on rational and irrational numbers.
+
+-- ds.page.depndencies:
+
+-- ds.page.dependency: https://fastn-stack.github.io/nios/mathematics/basics/numbers/
+
+-- end: ds.page.dependencies
+
+-- end: ds.page
